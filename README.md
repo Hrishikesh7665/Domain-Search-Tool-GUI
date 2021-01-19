@@ -33,7 +33,7 @@ A simple Python GUI Tool For Search All Sub-Domain's Of A Particular Domain
 
 - Download Repository
 
-[Click Here](#https://github.com/Hrishikesh7665/Domain-Search-Tool-GUI/archive/main.zip)
+`Direct Download Zip` [Click Here](https://github.com/Hrishikesh7665/Domain-Search-Tool-GUI/archive/main.zip)
 
 - Extract Files
 
