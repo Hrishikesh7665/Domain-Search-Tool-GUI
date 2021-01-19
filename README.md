@@ -83,6 +83,13 @@ python3 "Domain-Search-Tool.py"
 ## Demo
 
 - Windows
+
+![](Demo/WindowsDemo.gif)
+
+
 - Linux
+
+Add It Letter
+
 
 **Drop a STAR if you like it!!!😃**
